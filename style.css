@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+header {
+    background-color: #343a40; /* Dark background color */
+    color: #ffffff; /* White text color */
+    padding: 20px;
+}
+#skills {
+    background-color: #e1e2df; /* light grey background color */
+    color: #030303; /* black text color */
+    padding: 20px;
+    margin: 20px 0;
+}
+#about {
+    background-color: #ebf3fc; /* Light blue background color */
+    padding: 20px;
+    margin: 20px 0;
+}
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 10px 0;
+}
+
+.color-bg {
+    background-color: #ffffff; /* White background for sections with color-bg class */
+    padding: 20px;
+    margin: 20px 0;
+}
+
+section {
+    margin: 20px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #343a40; /* Dark button color */
+    color: #ffffff; /* White text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: #e1e6eb; /* white on hover */
+}
+
+.project {
+    background-color: #f8d7da; /* Light red background for projects */
+    color: #721c24; /* Dark red text color for projects */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.project h3 {
+    margin: 0;
+}
+
+
